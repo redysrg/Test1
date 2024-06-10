@@ -1,0 +1,12 @@
+change by dev1
+<<<<<<< HEAD
+
+ched line3 ..ch by dev2
+ange by dev2
+=======
+insert by dev1
+ched line3 change by dev1
+insert by dev1
+>>>>>>> f949db2fdc7a9f4c68e873556b671e581e06bf3e
+
+changed orig
